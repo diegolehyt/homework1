@@ -17,5 +17,5 @@ This repository content the html file named "homework", the CSS file "style" alr
 
 URL 
 
-The URL to open the page on your Browser is " https://diegolehyt.github.io/homework1/."
+The URL to open the page on your Browser is "  https://diegolehyt.github.io/homework1/"
 
